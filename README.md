@@ -14,9 +14,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 
 
-# 📊 GitHub Stats:
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=flionx&theme=rose&hide_border=false&include_all_commits=false&count_private=false&width=500" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=flionx&theme=rose&hide_border=false&width=500" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flionx&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact&width=500" alt="Top Languages" />
-</div>
+<!--# 📊 GitHub Stats:
+<!--<div>-->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=flionx&theme=rose&hide_border=false&include_all_commits=false&count_private=false&width=500" alt="GitHub Stats" /> -->
+<!--   <img src="https://nirzak-streak-stats.vercel.app/?user=flionx&theme=rose&hide_border=false&width=500" alt="GitHub Streak" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flionx&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact&width=500" alt="Top Languages" /> -->
+<!-- </div> -->
