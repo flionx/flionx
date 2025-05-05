@@ -1,22 +1,29 @@
-### Frontend:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-</p>
-
-
-### Backend & Databases:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-
-
-<!--# 📊 GitHub Stats:
-<!--<div>-->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=flionx&theme=rose&hide_border=false&include_all_commits=false&count_private=false&width=500" alt="GitHub Stats" /> -->
-<!--   <img src="https://nirzak-streak-stats.vercel.app/?user=flionx&theme=rose&hide_border=false&width=500" alt="GitHub Streak" /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flionx&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact&width=500" alt="Top Languages" /> -->
-<!-- </div> -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=5D87FF&center=true&vCenter=true&width=460&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Danila;Frontend+Developer;React+%7C+Vue+%7C+TypeScript" alt="Typing animation" />
+  
+  <br/>
+  
+  ### Crafting user interfaces using modern web technologies
+  
+  <div style="margin: 30px 0">
+    <img src="https://skillicons.dev/icons?i=react,vue,ts,js,redux,pinia,sass,figma&theme=dark&perline=10" alt="Tech stack">
+  </div>
+  
+  <div style="margin: 20px 0">
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,nodejs&theme=dark&perline=10" alt="Tools">
+  </div>
+  
+  <br/>
+  
+  <div>
+    <a href="https://www.linkedin.com/in/danila-shipilov/?locale=en_US" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://t.me/dnflnx" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    <a href="mailto:shipilovdanil0@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </div>
+</div>
