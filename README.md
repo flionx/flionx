@@ -1,11 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=5D87FF&center=true&vCenter=true&width=460&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Danila;Frontend+Developer;React+%7C+Vue+%7C+TypeScript" alt="Typing animation" />
-  
-  <br/>
-  
+
   ### Crafting user interfaces using modern web technologies
   
-  <div style="margin: 30px 0">
+  <div style="margin: 20px 0">
     <img src="https://skillicons.dev/icons?i=react,vue,ts,js,redux,pinia,sass,figma&theme=dark&perline=10" alt="Tech stack">
   </div>
   
