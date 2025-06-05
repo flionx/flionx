@@ -4,7 +4,7 @@
   ### Crafting user interfaces using modern web technologies
   
   <div style="margin: 20px 0">
-    <img src="https://skillicons.dev/icons?i=react,vue,ts,js,redux,pinia,sass,figma&theme=dark&perline=10" alt="Tech stack">
+    <img src="https://skillicons.dev/icons?i=react,vue,ts,js,redux,pinia&theme=dark&perline=10" alt="Tech stack">
   </div>
   
   <div style="margin: 20px 0">
